@@ -134,6 +134,13 @@ export const PROBLEM_SOLVING: PlatformLink[] = [
     blurb: "Competitive programming rounds and contest archive.",
   },
   {
+    platform: "Beecrowd",
+    handle: "@RamisaTabassum",
+    href: "https://judge.beecrowd.com/en/profile/800539",
+    icon: Terminal,
+    blurb: "Competitive programming rounds and contest archive.",
+  },
+  {
     platform: "GitHub",
     handle: "@rt-ahona",
     href: "https://github.com/rt-ahona",
